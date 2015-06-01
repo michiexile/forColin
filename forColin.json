@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {"x": 200, "y": 200, "text": "Node number 1"},
+    {"x": 300, "y": 200, "text": "Node number 2"},
+    {"x": 250, "y": 300, "text": "Node number 3"}
+  ],
+  "links": [
+    {"source": 0, "target": 1},
+    {"source": 0, "target": 2}
+  ]
+}
